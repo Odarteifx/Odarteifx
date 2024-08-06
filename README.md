@@ -3,9 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/lampte_y" target="blank"><img src="https://img.shields.io/twitter/follow/lampte_y?logo=twitter&style=for-the-badge" alt="lampte_y" /></a> </p>
 
+- 🌍 I'm currently based in **Accra, Ghana**
+  
 - 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **Flutter,Dart**
+- 💬 Ask me about **Flutter, Dart**
 
 - 📫 How to reach me **williamlamp512@gmail.com**
 
