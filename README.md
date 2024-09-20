@@ -6,7 +6,7 @@
 
 - 🌍 I'm currently based in **Accra, Ghana**
   
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning and exploring **Flutter**
 
 - 💬 Ask me about **Flutter, Dart**
 
